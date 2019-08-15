@@ -1,0 +1,11 @@
+.important {
+  color: navy;
+}
+
+.unimportant {
+  color: orange;
+}
+
+.captain {
+  font-style: italic;
+}
