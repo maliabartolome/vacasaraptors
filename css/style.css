@@ -14,3 +14,10 @@
 img {
   float: right;
 }
+
+.my-class {
+  border: 3px solid red;
+  padding: 5px;
+  margin: 7px;
+  background-color: pink;
+}
