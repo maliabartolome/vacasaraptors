@@ -1,0 +1,70 @@
+.important {
+  color: #FBFBFC;
+  text-align: left;
+}
+
+.unimportant {
+  color: #faac14;
+}
+
+.captain {
+  font-style: italic;
+}
+
+.img-vball {
+  float: left;
+  height: 150px;
+  width: auto;
+  padding-left: 200px;
+}
+
+.my-class {
+  border: 3px solid red;
+  padding: 5px;
+  margin: 7px;
+  background-color: pink;
+}
+
+.sub-header {
+  background-color: #00344a;
+  height: 150px;
+}
+
+h1 {
+  color: white;
+  padding-top: 50px;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.header {
+  background-color: white;
+  height: 50px;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: #FFAD02;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FFD00A;
+}
+
+/* selected link */
+a:active {
+  color: #FFE700;
+}
+
+.body {
+  background-color: white;
+}
+
+a {
+  padding-right: 34px;
+}
